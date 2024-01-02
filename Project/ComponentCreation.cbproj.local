@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024.01.02 14:46:13.373,=C:\Users\Mikhail\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024.01.02 14:46:13.513,=C:\Users\Mikhail\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024.01.02 14:46:53.023,C:\Users\Mikhail\Documents\Embarcadero\Studio\Projects\ComponentCreationPCH1.h=C:\Users\Mikhail\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024.01.02 14:46:53.033,C:\Users\Mikhail\Documents\Embarcadero\Studio\Projects\ComponentCreation.cbproj=C:\Users\Mikhail\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024.01.02 14:48:20.290,D:\myPROJECTS\ComponentCreation\component_creation\Project\Unit1.cpp=C:\Users\Mikhail\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024.01.02 14:48:20.290,D:\myPROJECTS\ComponentCreation\component_creation\Project\Unit1.fmx=C:\Users\Mikhail\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2024.01.02 14:48:20.290,D:\myPROJECTS\ComponentCreation\component_creation\Project\Unit1.h=C:\Users\Mikhail\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024.01.02 14:48:24.138,D:\myPROJECTS\ComponentCreation\component_creation\Project\ComponentCreationPCH1.h=C:\Users\Mikhail\Documents\Embarcadero\Studio\Projects\ComponentCreationPCH1.h</Transaction>
+    <Transaction>2024.01.02 14:48:26.497,D:\myPROJECTS\ComponentCreation\component_creation\Project\ComponentCreation.cbproj=C:\Users\Mikhail\Documents\Embarcadero\Studio\Projects\ComponentCreation.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
