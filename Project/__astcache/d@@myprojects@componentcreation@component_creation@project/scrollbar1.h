@@ -12,10 +12,12 @@
 class PACKAGE TScrollBar1 : public TScrollBar
 {
 private:
+    double value;
 protected:
 public:
 	__fastcall TScrollBar1(TComponent* Owner);
 __published:
+    __property double my_property;
 };
 //---------------------------------------------------------------------------
 #endif

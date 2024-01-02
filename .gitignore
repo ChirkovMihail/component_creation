@@ -33,4 +33,5 @@
 
 # History file
 *__history/
-*__astcache/*
+*__astcache/
+

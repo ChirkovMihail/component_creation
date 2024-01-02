@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2024.01.02 17:58:36.555,=D:\myPROJECTS\ComponentCreation\component_creation\Project\TScrollBar1PCH1.h</Transaction>
-    <Transaction>2024.01.02 17:58:36.555,=rtl.bpi</Transaction>
-    <Transaction>2024.01.02 17:58:43.672,=D:\myPROJECTS\ComponentCreation\component_creation\Project\ScrollBar1.cpp</Transaction>
-    <Transaction>2024.01.02 17:58:43.673,=fmx.bpi</Transaction>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.672,=D:\myPROJECTS\ComponentCreation\component_creation\Project\ScrollBar1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,=fmx.bpi</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.555,=D:\myPROJECTS\ComponentCreation\component_creation\Project\TScrollBar1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.555,=rtl.bpi</Transaction>
   </Transactions>
 </BorlandProject>
